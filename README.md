@@ -27,5 +27,5 @@ Younger populations are prominent in developing nations such as Afghanistan and 
 Aging populations are more visible in developed countries.
 192 countries were analyzed for this dashboard, providing a comprehensive global overview.
 
-*Tools Used
+*Tools Used:
 Power BI for data visualization
