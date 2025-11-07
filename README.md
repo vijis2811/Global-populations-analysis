@@ -2,7 +2,7 @@ The Global Population Analysis Dashboard provides a visual exploration of worldw
 
 *Key Insights & Visuals
 1.Total Population by Country:
-A bar chart comparing total population (in millions) across major countries such as India, China, and Indonesia — showing India and China leading significantly.
+A bar chart comparing total population (in millions) across major countries such as India, China, and Indonesia showing India and China leading significantly.
 
 2.Male vs Female Population:
 A comparative horizontal bar chart displaying male and female population counts by country, indicating near parity in gender ratios for large populations.
