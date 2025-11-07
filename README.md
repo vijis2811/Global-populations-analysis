@@ -21,7 +21,7 @@ Total Global Population (in thousands): Represented in a gauge/donut chart showi
 Country Count: Displays data from 192 countries.
 Population Density Distribution: A donut chart depicting comparative density among top countries like India, China, and Indonesia.
 
-*Insights Summary
+*Insights Summary:
 India and China dominate in total population and density.
 Younger populations are prominent in developing nations such as Afghanistan and India.
 Aging populations are more visible in developed countries.
@@ -29,3 +29,6 @@ Aging populations are more visible in developed countries.
 
 *Tools Used:
 Power BI for data visualization
+<img width="1418" height="787" alt="Screenshot 2025-11-07 144644" src="https://github.com/user-attachments/assets/6c9a0ae3-679c-4e0e-a297-6a13cc5a9f17" />
+
+
